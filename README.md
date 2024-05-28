@@ -5,7 +5,8 @@
 > *CVPR, 2024*
 
 ## News
-* [2024-03-25] Code has released. Digits [Link](https://drive.google.com/drive/folders/1SSv9dqQPBGyHS3rSwoFKmpBIeF4GX-i6?usp=sharing)
+* [2024-05-28] Paper has been released. [arXiv](https://arxiv.org/abs/2405.16585v1)
+* [2024-03-25] Code has been released. [Digits](https://drive.google.com/drive/folders/1SSv9dqQPBGyHS3rSwoFKmpBIeF4GX-i6?usp=sharing)
 
 
 ## Abstract
